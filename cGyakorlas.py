@@ -112,7 +112,7 @@ def kilenc_a():
 
 
 def beolvas2():
-    szam = float(input("Kérem adjon meg egy egész számot! "))
+    szam = float(input("Kérem adjon meg egy valós számot! "))
     return szam
 
 
